@@ -1,5 +1,5 @@
 # Credit-Card-Fraud-Detection 
-In this project I build machine learning models to identify fraud in credit card transactions. 
+In this project, I build machine learning models to identify fraud in credit card transactions. 
 ## Requirements
 Install R (and RStudio)
 If you don’t already have them, download and install R https://www.r-project.org/ and RStudio https://www.rstudio.com/products/rstudio/download/.
